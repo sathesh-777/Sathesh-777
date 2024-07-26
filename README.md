@@ -16,49 +16,49 @@
   <tr>
     <td align="center" width="96">
       <a href="#top-skills">
-        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/skills/aws.svg" width="48" height="48" alt="AWS" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
     <td align="center" width="96">
       <a href="#top-skills">
-        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/skills/devops.svg" width="48" height="48" alt="DevOps" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="DevOps" />
       </a>
       <br>DevOps
     </td>
     <td align="center" width="96">
       <a href="#top-skills">
-        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/skills/docker.svg" width="48" height="48" alt="Docker" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#top-skills">
-        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/skills/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
     <td align="center" width="96">
       <a href="#top-skills">
-        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/skills/linux.svg" width="48" height="48" alt="Linux" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
     <td align="center" width="96">
       <a href="#top-skills">
-        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/skills/php.svg" width="48" height="48" alt="PHP" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
     <td align="center" width="96">
       <a href="#top-skills">
-        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/skills/javascript.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#top-skills">
-        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/skills/react.svg" width="48" height="48" alt="React" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
