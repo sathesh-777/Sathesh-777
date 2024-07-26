@@ -16,7 +16,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#top-skills">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+        <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
